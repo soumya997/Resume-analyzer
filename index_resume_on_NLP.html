@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>res score</title>
+</head>
+<body>
+<div align="center">
+    <h1>Resume Score</h1>
+    <h2>Upload new File</h2>
+    <form method=post enctype=multipart/form-data>
+        <p><input type=file name=file>
+            <input type=submit value=Upload>
+        </p>
+    </form>
+	<h1>{{pred_result}}</h1>
+	<form method=post enctype=multipart/form-data>
+		<p>
+			<input type ="submit" name="Summarization" value="Summarize"> 
+		</p>
+	</form>
+	<!--
+	{% for x in doc_ents %}
+             <p>{{(f'{x.label_.upper():{20}}- {x.text}')}}</p>
+        {% endfor %}
+	-->
+	<h2>{{doc_ents}}</h2>
+			
+</div>
+</body>
+</html>

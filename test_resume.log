@@ -1,0 +1,157 @@
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:16:34] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:19:58] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:22:19] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:27:21] "[37mGET / HTTP/1.1[0m" 200 -
+DEBUG:resume_app.py:index:result:8,filename: cnpkkjdkyhhw.pdf
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:27:30] "[1m[31mPOST / HTTP/1.1[0m" 400 -
+DEBUG:resume_app.py:index:result:8,filename: cnpkkjdkyhhw.pdf
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:28:49] "[1m[31mPOST / HTTP/1.1[0m" 400 -
+DEBUG:resume_app.py:index:result:8,filename: cnpkkjdkyhhw.pdf
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:28:56] "[1m[31mPOST / HTTP/1.1[0m" 400 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:31:06] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 22:32:18] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 23:02:23] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 23:07:55] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 23:11:33] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 23:13:01] "[37mGET / HTTP/1.1[0m" 200 -
+DEBUG:resume_app.py:index:result:7,filename: dqfncmgrjkyy.pdf
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 23:13:08] "[1m[31mPOST / HTTP/1.1[0m" 400 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [10/Nov/2020 23:18:42] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [11/Nov/2020 00:04:39] "[1m[35mGET / HTTP/1.1[0m" 500 -
+INFO:_internal.py:_log: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app.py:log_exception:Exception on / [GET]
+Traceback (most recent call last):
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Users\USER\Anaconda3\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+INFO:_internal.py:_log:127.0.0.1 - - [11/Nov/2020 00:47:33] "[1m[35mGET / HTTP/1.1[0m" 500 -
