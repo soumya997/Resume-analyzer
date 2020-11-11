@@ -2,17 +2,34 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Watermark Remover</title>
+    <title>{% block title %}Resume Analyzer{% endblock %}</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-
+TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
 <body>
 <div align="center">
-    <h1>Cam-Scanner Watermark Remover</h1>
-    <h2>Upload new File</h2>
-    <form method=post enctype=multipart/form-data>
-        <p><input type=file name=file>
-            <input type=submit value=Upload>
+    <h1>Resume Analyzer</h1>
+    <h2>Upload Your Resume😃</h2>
+    <form method="POST" action="/form" enctype=multipart/form-data>
+        <p><input type="file" name="file">
+            <input type="submit" value="Get the Score">
+			<!-- <input type ="button" name="Summarization" value="Summarize">  -->
         </p>
     </form>
+	<form method="POST" action="/summ" enctype=multipart/form-data>
+        <p><input type="file" name="file">
+            <!-- <input type="submit" value="Upload"> -->
+			<input type ="submit" name="Summarization" value="Summarize"> 
+        </p>
+    </form>
+	<!-- <h1>{{filename_fe}}</h1> -->
+	<!-- <h1>{{path_fe}}</h1> -->
+	<h1>{{result_fe}}</h1>
+	
+
+	<h3>{%for x in ents_fe%}</h3>
+			<p>{{x.label_.upper()}} : {{x.text}}</p>
+		{% endfor %}
 </div>
 </body>
 </html>
