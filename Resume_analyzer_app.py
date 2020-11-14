@@ -127,12 +127,8 @@ def main():
 		nav_bar_img_html = """<img src='https://i.ibb.co/jV1BRxN/Pics-Art-Crop.png' width="690" height="160">""" 
 		
 		st.markdown(nav_bar_img_html, unsafe_allow_html=True)
-
-
+		
 		about_section = """
-			    
-		    
-
 			This project is called **Resume Analyzer**. Currently, it has only two features,
 				
 			** 1. Resume Score Generator **
