@@ -154,11 +154,6 @@ def main():
 			Visit the GitHub [reposetory](https://github.com/soumya997/Resume-analyzer) to know more. 
 			If you like the project don't forget to star the repository 😇.
 
-			
-			
-
-
-
 		"""
 		st.markdown(about_section,unsafe_allow_html=True)					 #ABOUT PAGE		
 
