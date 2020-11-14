@@ -113,7 +113,7 @@ def main():
 
 	st.sidebar.markdown("""<br>""",unsafe_allow_html=True)
 	
-	st.sidebar.markdown("""<h2 style="color:black;">Navigation Bar:</h2>""",unsafe_allow_html=True)			#NAVBAR HEADING
+	st.sidebar.markdown("""<h2 style="color:black;">Navigation Bar:</h2>""",unsafe_allow_html=True)			   #NAVBAR HEADING
 	
 	st.markdown("""<br><br><br>""",unsafe_allow_html=True)
 	
