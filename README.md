@@ -128,7 +128,7 @@ Name: score, dtype: int64
 <br>
 
 <a href="https://twitter.com/Soumya997Sarkar" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://www.linkedin.com/in/soumyadip-sarkar-173901183/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />
+<a href="https://www.linkedin.com/in/soumyadip-sarkar-173901183/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/soumya997/Resume-analyzer?color=magenta&style=for-the-badge">
 
 
 
