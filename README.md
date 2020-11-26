@@ -13,7 +13,6 @@
 
 <i>Resume Analyzer is a tool for recruiters which can help them to select candidates based on their resume and it also helps by providing a overall summary of the resume using which recruiters can know that individual in a more better way in less time.</i>
 
-
 </p>
 
 
