@@ -108,16 +108,19 @@ Name: score, dtype: int64
 1. **Using `Docker`:**
 
 1.1 `git clone <repo link>`
-
-1.2 
+1.2 `cd Resume-analyzer`
+1.3 `Docker build -t "<give_some_name>" .`
+1.4 `Docker run -ti "<provided_name>"`
 
 2. **Not using `Docker`:**
 
 2.1 `git clone <repo link>`
 
-2.2 `pip install -r requirements.txt `
+2.2 `cd Resume-analyzer`
 
-2.3 `streamlit run <file_name>`
+2.3 `pip install -r requirements.txt `
+
+2.4 `streamlit run <file_name>`
 
 # Connect with me If you need any help🤝:
 
