@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/soumya997/resume-analyzer/main/Resume_analyzer_app.py)
+
 <p align="center">
 <img src="https://i.imgur.com/BcPSOvq.png" width="400">
 <br/>
