@@ -132,7 +132,7 @@ Name: score, dtype: int64
 <a href="https://twitter.com/Soumya997Sarkar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Soumya997Sarkar?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Soumya997Sarkar"></a>
 <a href="https://www.linkedin.com/in/soumyadip-sarkar-173901183/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumya997?color=green&logo=github&style=for-the-badge">
-[![Gmail](https://img.shields.io/badge/-soumyadip-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soumya997.sarkar@gmail.com)
+[![Gmail](https://img.shields.io/badge/-soumyadip-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:soumya997.sarkar@gmail.com)
 
 
 <br>
