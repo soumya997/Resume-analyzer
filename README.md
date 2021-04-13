@@ -105,7 +105,7 @@ Name: score, dtype: int64
 **Note**: if you dont get the file structure currect feel free to make an issue.
 
 # Run Locally💻:
-1. **Using `Docker`:**
+<!--1. **Using `Docker`:**
 
 1.1 `git clone <repo link>`
 
@@ -114,8 +114,9 @@ Name: score, dtype: int64
 1.3 `Docker build -t "<give_some_name>" .`
 
 1.4 `Docker run -ti "<provided_name>"`
+-->
 
-2. **Not using `Docker`:**
+ 2. **Run Locally:**
 
 2.1 `git clone <repo link>`
 
