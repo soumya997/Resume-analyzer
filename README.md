@@ -62,6 +62,7 @@ In the form of readme I am providing the details of the project. Below, I also h
 
 # Future Improvements✊"
 1. Making the models more robust.As its not right now, because of some reason
+
 1.1. Data is not labeled correctly.
 1.2. Dataset is imbalanced,
 ```
@@ -85,6 +86,7 @@ Name: score, dtype: int64
 2. Adding a QnA based model for easy query search option. As it will provide the user to make some query in the form of a question and extract answer in the form of model output. It will help people to search specific things from the resume.
 
 3. Migrate the webapp from sreamlit to flask.Add some good UI.
+4. Containerizing the project.
 <BR>
 
 **NOTE:** <i>If you can implement any of the above mentioned feature, please feel free to make a PR. Except, that if you have any problem understanding the above mentioned features feel free to creat an issue.</i>
