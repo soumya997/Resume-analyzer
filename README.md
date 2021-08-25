@@ -52,10 +52,10 @@ The whole application is having two tools right now,
 2. For Custom NER I used Spacy to do that. As per the Spacy docs they used Convolutional layers with residual connections, layer normalization and maxout non-linearity are used,which giving much better efficiency than the standard BiLSTM solution.[Source](https://spacy.io/models)
 
 ### Model Deployment:
-1. For that I went with `flask` 1st, but as the UI was not good so, finally i switched to `streamlit`. The python file for flask and streamlit bot are present in the repo.
+1. For that I went with `flask` 1st, but as the UI was not good so, finally i switched to `streamlit`. The python file for flask and streamlit are present in the repo.
 2. As it was a streamlit app, and as I just got the approval to use their deployment plateform from the `streamlit` team itself. So, I decided to use that. You can see the deployed app [here](https://share.streamlit.io/soumya997/resume-analyzer/main/Resume_analyzer_app.py).
 
-2. I have also Containerized the whole app using `Docker`. So you can that also to get the app locally.
+<!-- 2. I have also Containerized the whole app using `Docker`. So you can that also to get the app locally. -->
 
 ### Documentation:
 In the form of readme I am providing the details of the project. Below, I also have provided that ditails explanation for the file structure and how you can run the application locally.
